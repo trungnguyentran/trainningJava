@@ -21,7 +21,7 @@ Tôi tên là Trần Hoàng Hùng. Tôi đang là Automation Tester
 
 **Bài 5:**
 Tạo 1 class Employee có các thuộc tính: ID, Name, Age, Salary
-1 Nhập thông tin mảng danh sách Employee
+1 Nhập thông tin mảng danh sách với số lượng n Employee
 2 Hiển thị thông tin danh sách Employee
 3 Tìm mức lương cao nhất của Employe và hiển thị ra
 4 Sắp xếp lương của Employee theo thứ tự tăng dần
