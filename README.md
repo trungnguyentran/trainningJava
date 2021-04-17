@@ -26,7 +26,9 @@ Tạo 1 class Employee có các thuộc tính: ID, Name, Age, Salary
 3 Tìm mức lương cao nhất của Employe và hiển thị ra
 4 Sắp xếp lương của Employee theo thứ tự tăng dần
 
-
-
-
+**Note**
+Khi nộp bài tạo thư mục chứa tên của mình: ví dụ: TrungNT
+Trong thư mục TrungNT: chứa file class code bài tập 
+=> các bài 1, 2, 3, 4 viết code trong 1 file main.java
+=> bài 5 tạo 1 file java định nghĩa class Employee viết code vào file main.java
 
