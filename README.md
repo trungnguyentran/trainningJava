@@ -23,8 +23,8 @@ Tôi tên là Trần Hoàng Hùng. Tôi đang là Automation Tester
 Tạo 1 class Employee có các thuộc tính: ID, Name, Age, Salary
 * Nhập thông tin mảng danh sách với số lượng n Employee
 * Hiển thị thông tin danh sách Employee
-* Tìm mức lương cao nhất của Employe và hiển thị ra
-* Sắp xếp lương của Employee theo thứ tự tăng dần theo mức lương từ nhỏ đến mức lương lớn 
+* Tìm mức lương cao nhất của Employe và hiển thị ra thông tin Employee này
+* Sắp xếp lương của Employee theo thứ tự tăng dần theo mức lương từ nhỏ đến mức lương lớn. Sau đó in danh sách Employee sau khi sắp xếp 
 
 **Note**
 * Khi nộp bài tạo thư mục chứa tên của mình: ví dụ: TrungNT
