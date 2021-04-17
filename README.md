@@ -24,7 +24,7 @@ Tạo 1 class Employee có các thuộc tính: ID, Name, Age, Salary
 * Nhập thông tin mảng danh sách với số lượng n Employee
 * Hiển thị thông tin danh sách Employee
 * Tìm mức lương cao nhất của Employe và hiển thị ra
-* Sắp xếp lương của Employee theo thứ tự tăng dần
+* Sắp xếp lương của Employee theo thứ tự tăng dần theo mức lương từ nhỏ đến mức lương lớn 
 
 **Note**
 * Khi nộp bài tạo thư mục chứa tên của mình: ví dụ: TrungNT
