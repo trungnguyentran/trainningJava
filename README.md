@@ -1,7 +1,7 @@
 # trainningJava
 
 **Bài 1:**
-Nhập các hệ số a, b, c để giải phương trình bậc hai có dạng: a*x*x + b*x + c = 0
+Nhập các hệ số a, b, c để giải phương trình bậc hai có dạng: a*n*n + b*n + c = 0
 
 **Bài 2:**
 Tìm số nguyên lớn nhất trong mảng từ 0 đến 100 và hiển thị ra màn hình
